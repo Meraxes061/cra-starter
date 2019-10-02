@@ -1,0 +1,43 @@
+$primary-color: #FFA000;
+$secondary-color: #FF4081;
+$text-color: white;
+
+.c-button {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1rem;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    background: transparent;
+    user-select: none;
+    cursor: pointer;
+
+    &--primary {
+        background-color: $primary-color;
+        color: $text-color
+    }
+
+    &--secondary {
+        background-color: $secondary-color;
+        color: $text-color;
+    }
+
+    &--small {
+        font-size: .75rem;
+        padding: .25em .5em;
+        line-height: 0.75rem;
+    }
+
+    &--medium {
+        font-size: 1rem;
+        padding: .5em 1em;
+    }
+
+    &--large {
+        font-size: 1.25rem;
+        padding: 1em 2em;
+        line-height: 1.5rem;
+    }
+}

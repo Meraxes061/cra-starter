@@ -1,0 +1,131 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button/> renders correctly default 1`] = `
+<button
+  className="c-button c-button--medium"
+>
+  <span>
+    Default Button
+  </span>
+</button>
+`;
+
+exports[`<Button/> renders correctly default with loading 1`] = `
+<button
+  className="c-button c-button--medium isLoading"
+>
+  <span>
+    Loading
+  </span>
+</button>
+`;
+
+exports[`<Button/> renders correctly default with size large 1`] = `
+<button
+  className="c-button c-button--large"
+>
+  <span>
+    Default Button Large
+  </span>
+</button>
+`;
+
+exports[`<Button/> renders correctly default with size medium 1`] = `
+<button
+  className="c-button c-button--medium"
+>
+  <span>
+    Default Button Medium
+  </span>
+</button>
+`;
+
+exports[`<Button/> renders correctly default with size small 1`] = `
+<button
+  className="c-button c-button--small"
+>
+  <span>
+    Default Button Small
+  </span>
+</button>
+`;
+
+exports[`<Button/> renders correctly primary 1`] = `
+<button
+  className="c-button c-button--primary c-button--medium"
+>
+  <span>
+    Primary Button
+  </span>
+</button>
+`;
+
+exports[`<Button/> renders correctly primary with size large 1`] = `
+<button
+  className="c-button c-button--primary c-button--large"
+>
+  <span>
+    Primary Button Large
+  </span>
+</button>
+`;
+
+exports[`<Button/> renders correctly primary with size medium 1`] = `
+<button
+  className="c-button c-button--primary c-button--medium"
+>
+  <span>
+    Primary Button Medium
+  </span>
+</button>
+`;
+
+exports[`<Button/> renders correctly primary with size small 1`] = `
+<button
+  className="c-button c-button--primary c-button--small"
+>
+  <span>
+    Primary Button Small
+  </span>
+</button>
+`;
+
+exports[`<Button/> renders correctly secondary 1`] = `
+<button
+  className="c-button c-button--secondary c-button--medium"
+>
+  <span>
+    Secondary Button
+  </span>
+</button>
+`;
+
+exports[`<Button/> renders correctly secondary with large 1`] = `
+<button
+  className="c-button c-button--secondary c-button--large"
+>
+  <span>
+    Secondary Button Large
+  </span>
+</button>
+`;
+
+exports[`<Button/> renders correctly secondary with medium 1`] = `
+<button
+  className="c-button c-button--secondary c-button--medium"
+>
+  <span>
+    Secondary Button Medium
+  </span>
+</button>
+`;
+
+exports[`<Button/> renders correctly secondary with small 1`] = `
+<button
+  className="c-button c-button--secondary c-button--small"
+>
+  <span>
+    Secondary Button Small
+  </span>
+</button>
+`;
