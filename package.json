@@ -79,7 +79,7 @@
     "react-app-rewired": "^2.1.1",
     "react-docgen-typescript-loader": "^3.1.0",
     "react-test-renderer": "^16.8.6",
-    "stylelint": "^10.0.1",
+    "stylelint": "^15.10.1",
     "stylelint-config-prettier": "^5.0.0",
     "stylelint-config-sass-guidelines": "^5.4.0",
     "stylelint-declaration-block-no-ignored-properties": "^1.1.0",
